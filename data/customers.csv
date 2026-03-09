@@ -1,0 +1,26 @@
+customer_id,customer_name,region,segment,created_at,account_manager,metadata
+C001,Acme Cafe,US-WEST,SMB,2024-03-15,Sarah Johnson,{"tier": "gold", "payment_terms": "net30"}
+C002,Blue Deli,US-EAST,SMB,2024-05-22,Mike Chen,{"tier": "silver", "payment_terms": "net15"}
+C003,City Market,US-WEST,Enterprise,2024-01-10,Sarah Johnson,{"tier": "platinum", "payment_terms": "net45"}
+C004,Daily Provisions,US-CENTRAL,SMB,2024-06-01,Alex Rivera,{"tier": "bronze", "payment_terms": "net15"}
+C005,Fresh Corner Bistro,US-EAST,Mid-Market,2024-02-28,Mike Chen,{"tier": "gold", "payment_terms": "net30"}
+C006,Green Basket Co,US-WEST,SMB,2024-07-14,Sarah Johnson,{"tier": "silver", "payment_terms": "net15"}
+C007,Harvest Kitchen,US-CENTRAL,Enterprise,2023-11-20,Alex Rivera,{"tier": "platinum", "payment_terms": "net60"}
+C008,Metro Foods Inc,US-EAST,Mid-Market,2024-04-05,Mike Chen,{"tier": "gold", "payment_terms": "net30"}
+C009,North Star Grocery,US-CENTRAL,SMB,2024-08-12,Alex Rivera,{"tier": "bronze", "payment_terms": "cod"}
+C010,Oak & Vine Market,US-WEST,Mid-Market,2024-03-30,Sarah Johnson,{"tier": "silver", "payment_terms": "net15"}
+C011,Pine Street Deli,US-EAST,SMB,2024-09-01,Mike Chen,{"tier": "bronze", "payment_terms": "cod"}
+C012,Riverside Cafe,us-west,SMB,2024-05-18,sarah johnson,{"tier": "silver", "payment_terms": "net15"}
+C013,Summit Foods,US-CENTRAL,Enterprise,2023-10-05,Alex Rivera,{"tier": "platinum", "payment_terms": "net45"}
+C014,The Corner Store,US-EAST,SMB,2024-07-22,,{"tier": "bronze", "payment_terms": "cod"}
+C015,Urban Eats,US-WEST,Mid-Market,2024-04-11,Sarah Johnson,{"tier": "gold", "payment_terms": "net30"}
+C016,Valley Fresh Market,US-CENTRAL,SMB,2024-08-30,Alex Rivera,{"tier": "silver", "payment_terms": "net15"}
+C017,Westside Provisions,US-WEST,Enterprise,2024-01-25,Sarah Johnson,{"tier": "platinum", "payment_terms": "net45"}
+C018,Zenith Foods,US-EAST,Mid-Market,2024-06-15,Mike Chen,{"tier": "gold", "payment_terms": "net30"}
+C019,Alpine Grocery,US-CENTRAL,SMB,2024-09-10,Alex Rivera,{"tier": "bronze", "payment_terms": "cod"}
+C020,Beacon Hill Market,US-EAST,SMB,2024-02-14,Mike Chen,{"tier": "silver", "payment_terms": "net15"}
+C021,Coastal Kitchen,US-WEST,Mid-Market,2024-05-05,Sarah Johnson,{"tier": "gold", "payment_terms": "net30"}
+C022,Downtown Deli,US-CENTRAL,SMB,2024-07-08,Alex Rivera,{"tier": "bronze", "payment_terms": "cod"}
+C023,Eastside Eats,US-EAST,Enterprise,2024-03-20,Mike Chen,{"tier": "platinum", "payment_terms": "net60"}
+C024,Farmhouse Foods,US-WEST,SMB,2024-08-25,Sarah Johnson,{"tier": "silver", "payment_terms": "net15"}
+C025,Golden Gate Market,US-WEST,Mid-Market,2024-04-18,Sarah Johnson,{"tier": "gold", "payment_terms": "net30"}

@@ -1,0 +1,11 @@
+supplier_id,supplier_name,category_specialty,region,lead_time_days,rating
+S001,Valley Farms,Produce,US-WEST,2,4.8
+S002,Green Acres,Produce,US-CENTRAL,3,4.5
+S003,Dairy Direct,Dairy,US-EAST,1,4.9
+S004,Artisan Bakehouse,Bakery,US-WEST,1,4.7
+S005,Premium Meats Co,Protein,US-CENTRAL,2,4.6
+S006,Pacific Seafood,Protein,US-WEST,1,4.4
+S007,Mediterranean Imports,Pantry,US-EAST,5,4.3
+S008,Bulk Foods Inc,Pantry,US-CENTRAL,4,4.2
+S009,Beverage Distributors,Beverage,US-EAST,2,4.5
+S010,Inactive Supplier,Produce,US-WEST,3,3.0

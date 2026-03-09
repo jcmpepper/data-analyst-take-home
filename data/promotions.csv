@@ -1,0 +1,6 @@
+promotion_id,promotion_name,discount_type,discount_value,start_date,end_date,applicable_categories,min_order_value
+PROMO-001,Spring Fresh Savings,percentage,10,2026-02-01,2026-02-28,Produce,50.00
+PROMO-002,Dairy Days,fixed,5.00,2026-02-01,2026-02-15,Dairy,30.00
+PROMO-003,Protein Power Week,percentage,15,2026-02-05,2026-02-20,Protein,75.00
+PROMO-004,Pantry Stock Up,percentage,8,2026-02-10,2026-02-25,Pantry,40.00
+PROMO-005,Expired Holiday Sale,percentage,20,2025-12-20,2026-01-05,All,0.00

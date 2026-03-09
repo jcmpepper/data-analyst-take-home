@@ -1,0 +1,31 @@
+product_id,product_name,category,subcategory,supplier_id,unit_price,unit_type,is_active
+P001,Organic Apples,Produce,Fruit,S001,2.50,lb,true
+P002,Bananas,Produce,Fruit,S001,1.25,lb,true
+P003,Carrots,Produce,Vegetable,S002,1.80,lb,true
+P004,Broccoli,Produce,Vegetable,S002,2.75,lb,true
+P005,Spinach,Produce,Vegetable,S002,3.20,bunch,true
+P006,Whole Milk,Dairy,Milk,S003,4.50,gallon,true
+P007,2% Milk,Dairy,Milk,S003,4.25,gallon,true
+P008,Large Eggs,Dairy,Eggs,S003,5.99,dozen,true
+P009,Greek Yogurt,Dairy,Yogurt,S003,6.50,32oz,true
+P010,Cheddar Cheese,Dairy,Cheese,S003,7.25,lb,true
+P011,Sourdough Bread,Bakery,Bread,S004,5.50,loaf,true
+P012,Whole Wheat Bread,Bakery,Bread,S004,4.75,loaf,true
+P013,Croissants,Bakery,Pastry,S004,3.25,each,true
+P014,Chicken Breast,Protein,Poultry,S005,8.99,lb,true
+P015,Ground Beef,Protein,Beef,S005,7.50,lb,true
+P016,Atlantic Salmon,Protein,Seafood,S006,14.99,lb,true
+P017,Olive Oil,Pantry,Oils,S007,12.00,750ml,true
+P018,Balsamic Vinegar,Pantry,Condiments,S007,8.50,500ml,true
+P019,Sea Salt,Pantry,Spices,S007,4.00,26oz,true
+P020,Black Pepper,Pantry,Spices,S007,6.25,4oz,true
+P021,Tomato Sauce,Pantry,Canned,S008,2.25,28oz,true
+P022,Pasta,Pantry,Dry Goods,S008,1.99,16oz,true
+P023,Rice,Pantry,Dry Goods,S008,3.50,2lb,true
+P024,Orange Juice,Beverage,Juice,S009,5.75,64oz,true
+P025,Coffee Beans,Beverage,Coffee,S009,14.50,12oz,true
+P026,Green Tea,Beverage,Tea,S009,7.00,20ct,true
+P027,Sparkling Water,Beverage,Water,S009,1.25,liter,true
+P028,Discontinued Crackers,Pantry,Snacks,S008,3.00,8oz,false
+P029,Organic Strawberries,Produce,fruit,S001,5.99,pint,true
+P030,Avocados,produce,Vegetable,S001,2.00,each,true
